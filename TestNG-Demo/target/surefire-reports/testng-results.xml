@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="9" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-28T11:03:26 IST" name="Suite" finished-at="2022-09-28T11:03:26 IST" duration-ms="130">
+    <groups>
+      <group name="Smoke">
+        <method signature="HomeLoanApplicationTests.APIHomeLoan()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" name="APIHomeLoan" class="loanapplications.HomeLoanApplicationTests"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2022-09-28T11:03:26 IST" name="HomeLoanTests" finished-at="2022-09-28T11:03:26 IST" duration-ms="44">
+      <class name="loanapplications.HomeLoanApplicationTests">
+        <test-method is-config="true" signature="setupTestData()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" started-at="2022-09-28T11:03:26 IST" name="setupTestData" finished-at="2022-09-28T11:03:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTestData -->
+        <test-method is-config="true" signature="dosomething()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" started-at="2022-09-28T11:03:26 IST" name="dosomething" finished-at="2022-09-28T11:03:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosomething -->
+        <test-method signature="APIHomeLoan()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" started-at="2022-09-28T11:03:26 IST" name="APIHomeLoan" finished-at="2022-09-28T11:03:26 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIHomeLoan -->
+        <test-method is-config="true" signature="dosomething()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" started-at="2022-09-28T11:03:26 IST" name="dosomething" finished-at="2022-09-28T11:03:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosomething -->
+        <test-method signature="MobileHomeLoan()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" started-at="2022-09-28T11:03:26 IST" name="MobileHomeLoan" finished-at="2022-09-28T11:03:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileHomeLoan -->
+        <test-method is-config="true" signature="dosomething()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" started-at="2022-09-28T11:03:26 IST" name="dosomething" finished-at="2022-09-28T11:03:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosomething -->
+        <test-method signature="WebHomeLoan()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" started-at="2022-09-28T11:03:26 IST" name="WebHomeLoan" finished-at="2022-09-28T11:03:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebHomeLoan -->
+        <test-method is-config="true" signature="cleanupTestData()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" started-at="2022-09-28T11:03:26 IST" name="cleanupTestData" finished-at="2022-09-28T11:03:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanupTestData -->
+      </class> <!-- loanapplications.HomeLoanApplicationTests -->
+    </test> <!-- HomeLoanTests -->
+    <test started-at="2022-09-28T11:03:26 IST" name="PersonalLoanTests" finished-at="2022-09-28T11:03:26 IST" duration-ms="9">
+      <class name="loanapplications.PersonalLoanApplicationTests">
+        <test-method signature="PersonalLoanLoginAPI()[pri:0, instance:loanapplications.PersonalLoanApplicationTests@1f3f4916]" started-at="2022-09-28T11:03:26 IST" name="PersonalLoanLoginAPI" finished-at="2022-09-28T11:03:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoanLoginAPI -->
+        <test-method signature="PersonalLoanLoginMobile()[pri:0, instance:loanapplications.PersonalLoanApplicationTests@1f3f4916]" started-at="2022-09-28T11:03:26 IST" name="PersonalLoanLoginMobile" finished-at="2022-09-28T11:03:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoanLoginMobile -->
+        <test-method signature="PersonalLoanLoginWeb(java.lang.String)[pri:0, instance:loanapplications.PersonalLoanApplicationTests@1f3f4916]" started-at="2022-09-28T11:03:26 IST" name="PersonalLoanLoginWeb" finished-at="2022-09-28T11:03:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyz.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoanLoginWeb -->
+      </class> <!-- loanapplications.PersonalLoanApplicationTests -->
+    </test> <!-- PersonalLoanTests -->
+    <test started-at="2022-09-28T11:03:26 IST" name="CarLoanTests" finished-at="2022-09-28T11:03:26 IST" duration-ms="13">
+      <class name="loanapplications.CarLoanApplicationTests">
+        <test-method signature="CarLoanLoginWeb()[pri:0, instance:loanapplications.CarLoanApplicationTests@460d0a57]" started-at="2022-09-28T11:03:26 IST" name="CarLoanLoginWeb" finished-at="2022-09-28T11:03:26 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanLoginWeb -->
+        <test-method signature="CarLoanLoginAPI()[pri:0, instance:loanapplications.CarLoanApplicationTests@460d0a57]" started-at="2022-09-28T11:03:26 IST" name="CarLoanLoginAPI" finished-at="2022-09-28T11:03:26 IST" depends-on-methods="loanapplications.CarLoanApplicationTests.CarLoanLoginWeb" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanLoginAPI -->
+      </class> <!-- loanapplications.CarLoanApplicationTests -->
+      <class name="loanapplications.HomeLoanApplicationTests">
+        <test-method is-config="true" signature="startDatabase()[pri:0, instance:loanapplications.HomeLoanApplicationTests@27ae2fd0]" started-at="2022-09-28T11:03:26 IST" name="startDatabase" finished-at="2022-09-28T11:03:26 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDatabase -->
+      </class> <!-- loanapplications.HomeLoanApplicationTests -->
+    </test> <!-- CarLoanTests -->
+  </suite> <!-- Suite -->
+</testng-results>

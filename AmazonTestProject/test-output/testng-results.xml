@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T20:42:52 IST" name="Default suite" finished-at="2022-10-03T20:43:54 IST" duration-ms="61991">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T20:42:52 IST" name="Default test" finished-at="2022-10-03T20:43:54 IST" duration-ms="61991">
+      <class name="com.test.AmazonNavigationTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.test.AmazonNavigationTest@72f926e6]" started-at="2022-10-03T20:42:52 IST" name="beforeMethod" finished-at="2022-10-03T20:43:00 IST" duration-ms="8064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TestSellersLink()[pri:1, instance:com.test.AmazonNavigationTest@72f926e6]" started-at="2022-10-03T20:43:00 IST" name="TestSellersLink" description="Test for Cart Link" finished-at="2022-10-03T20:43:15 IST" duration-ms="14819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSellersLink -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.test.AmazonNavigationTest@72f926e6]" started-at="2022-10-03T20:43:15 IST" name="afterMethod" finished-at="2022-10-03T20:43:15 IST" duration-ms="332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.test.AmazonNavigationTest@72f926e6]" started-at="2022-10-03T20:43:15 IST" name="beforeMethod" finished-at="2022-10-03T20:43:21 IST" duration-ms="6315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TestAddressLink()[pri:2, instance:com.test.AmazonNavigationTest@72f926e6]" started-at="2022-10-03T20:43:21 IST" name="TestAddressLink" description="Address link verification" finished-at="2022-10-03T20:43:34 IST" duration-ms="12425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAddressLink -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.test.AmazonNavigationTest@72f926e6]" started-at="2022-10-03T20:43:34 IST" name="afterMethod" finished-at="2022-10-03T20:43:34 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.test.AmazonNavigationTest@72f926e6]" started-at="2022-10-03T20:43:34 IST" name="beforeMethod" finished-at="2022-10-03T20:43:42 IST" duration-ms="7326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TestOrderLink()[pri:3, instance:com.test.AmazonNavigationTest@72f926e6]" started-at="2022-10-03T20:43:42 IST" name="TestOrderLink" description="Order link verification" finished-at="2022-10-03T20:43:54 IST" duration-ms="12086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOrderLink -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.test.AmazonNavigationTest@72f926e6]" started-at="2022-10-03T20:43:54 IST" name="afterMethod" finished-at="2022-10-03T20:43:54 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.test.AmazonNavigationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

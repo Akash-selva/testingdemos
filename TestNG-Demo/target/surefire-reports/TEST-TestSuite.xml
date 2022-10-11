@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="1.085" tests="8" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="15"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Javafsd\testingdemos\TestNG-Demo\target\test-classes;D:\Javafsd\testingdemos\TestNG-Demo\target\classes;C:\Users\91969\.m2\repository\org\testng\testng\7.5\testng-7.5.jar;C:\Users\91969\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\91969\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar;C:\Users\91969\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\91969\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-15.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\91969\AppData\Local\Temp\surefire15005913906350392033\surefirebooter17038879476089989321.jar C:\Users\91969\AppData\Local\Temp\surefire15005913906350392033 2022-09-28T11-03-18_027-jvmRun1 surefire17358623583313235876tmp surefire_03010371783519937617tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Javafsd\testingdemos\TestNG-Demo\target\test-classes;D:\Javafsd\testingdemos\TestNG-Demo\target\classes;C:\Users\91969\.m2\repository\org\testng\testng\7.5\testng-7.5.jar;C:\Users\91969\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\91969\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar;C:\Users\91969\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\91969\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\91969"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-15.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Javafsd\testingdemos\TestNG-Demo"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\91969\AppData\Local\Temp\surefire15005913906350392033\surefirebooter17038879476089989321.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="15.0.2+7-27"/>
+    <property name="user.name" value="ak"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\91969\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\91969\AppData\Local\Temp\"/>
+    <property name="java.version" value="15.0.2"/>
+    <property name="user.dir" value="D:\Javafsd\testingdemos\TestNG-Demo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-15.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-15.0.2/bin/server;C:/Program Files/Java/jdk-15.0.2/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\91969\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\91969\AppData\Local\Programs\Python\Python37-32\;C:\Users\91969\AppData\Local\Microsoft\WindowsApps;C:\Users\91969\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\bin;C:\Users\91969\AppData\Local\GitHubDesktop\bin;C:\Users\91969\AppData\Roaming\npm;C:\Users\91969\eclipse\jee-2022-063\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="15.0.2+7-27"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="59.0"/>
+  </properties>
+  <testcase name="APIHomeLoan" classname="loanapplications.HomeLoanApplicationTests" time="0.003">
+    <system-out><![CDATA[Starting db server
+Setting up Test Data
+Hello
+Home loan application - API login test
+SucccessListener: TestSuccess
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="MobileHomeLoan" classname="loanapplications.HomeLoanApplicationTests" time="0.001">
+    <system-out><![CDATA[Hello
+Home loan application - mobile login test
+SucccessListener: TestSuccess
+]]></system-out>
+  </testcase>
+  <testcase name="WebHomeLoan" classname="loanapplications.HomeLoanApplicationTests" time="0">
+    <system-out><![CDATA[Hello
+Home loan application - web login test
+SucccessListener: TestSuccess
+]]></system-out>
+  </testcase>
+  <testcase name="PersonalLoanLoginAPI" classname="loanapplications.PersonalLoanApplicationTests" time="0">
+    <system-out><![CDATA[Cleaning up Test Data
+Personal loan application - API login test
+SucccessListener: TestSuccess
+]]></system-out>
+  </testcase>
+  <testcase name="PersonalLoanLoginMobile" classname="loanapplications.PersonalLoanApplicationTests" time="0.001">
+    <system-out><![CDATA[Personal loan application - mobile login test
+SucccessListener: TestSuccess
+]]></system-out>
+  </testcase>
+  <testcase name="PersonalLoanLoginWeb[xyz.com](1)" classname="loanapplications.PersonalLoanApplicationTests" time="0">
+    <system-out><![CDATA[Personal loan application - web login test
+Weg login url= xyz.com
+SucccessListener: TestSuccess
+]]></system-out>
+  </testcase>
+  <testcase name="CarLoanLoginWeb" classname="loanapplications.CarLoanApplicationTests" time="0.005">
+    <system-out><![CDATA[Car loan application - web login test
+SucccessListener: TestSuccess
+]]></system-out>
+  </testcase>
+  <testcase name="CarLoanLoginAPI" classname="loanapplications.CarLoanApplicationTests" time="0.001">
+    <system-out><![CDATA[Car loan application - API login test
+SucccessListener: TestSuccess
+]]></system-out>
+  </testcase>
+</testsuite>

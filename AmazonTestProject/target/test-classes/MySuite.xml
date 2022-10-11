@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="MySuite">
+  <test name="AmazonTest">
+    <classes>
+      <class name="com.test.AmazonTest"/>
+      <class name="com.test.AmazonHomePage"></class>
+       <class name="com.test.AmazonNavigationTest"></class>
+        <class name="com.test.AmazonProductSearchTest"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
